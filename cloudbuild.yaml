@@ -1,4 +1,4 @@
-steps:
+stepsk:
 - name: 'ubuntu'
   args: ['echo', 'foobar']
 - name: 'ubuntu'
